@@ -1,0 +1,2 @@
+ls /home/zpj/deduper/working/*
+rm -rf /home/zpj/deduper/working/*
